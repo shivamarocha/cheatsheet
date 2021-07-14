@@ -1,0 +1,11 @@
+git init=create repository in folder
+git config --global user.name "Shiva Marocha"= configure name
+git config --global user.email shivamarocha@gmail.com= configure email
+git checkout= create a new git branch and switch to it
+git add "README.md"= stage a git file
+git commit -m 'inital commit'= commit a git file
+git clone= create a copy of repository
+git status= list files i have changed and need to commit
+git branch= list all branches in repository, also state what branch i am currently in
+git push= push all branches to remote repository
+git pull= fetch and pull changes from github to directory
